@@ -5,5 +5,10 @@ public class A {
 		System.out.println("Hello");
 
 	}
+	public void abc()
+	{
+		System.out.println("abc-method");
+		
+	}
 
 }
