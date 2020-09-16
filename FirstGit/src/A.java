@@ -15,5 +15,8 @@ public class A {
 	
 	System.out.println("sub-method");
 	}
-
+ public void mul()
+ {
+ System.out.println("mul-method");
+ }
 }
