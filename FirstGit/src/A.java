@@ -10,5 +10,10 @@ public class A {
 		System.out.println("abc-method");
 		
 	}
+	public void sub()
+	{
+	
+	System.out.println("sub-method");
+	}
 
 }
