@@ -6,5 +6,9 @@ public class Abc {
 		System.out.println("pratice project for  git");
 		
 	}
+	public void message()
+	{
+	System.out.println("pratice project for  git");
+	}
 
 }
